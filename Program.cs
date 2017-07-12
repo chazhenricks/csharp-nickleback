@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace nickleback
 {
@@ -6,7 +7,7 @@ namespace nickleback
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<(string, string)> goodSongs = new List<(string, string)>();
         }
     }
 }
