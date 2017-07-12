@@ -1,0 +1,8 @@
+/Users/chazhenricks/workspace/csharp/orientation/exercises/nickleback/bin/Debug/netcoreapp1.1/nickleback.deps.json
+/Users/chazhenricks/workspace/csharp/orientation/exercises/nickleback/bin/Debug/netcoreapp1.1/nickleback.runtimeconfig.json
+/Users/chazhenricks/workspace/csharp/orientation/exercises/nickleback/bin/Debug/netcoreapp1.1/nickleback.runtimeconfig.dev.json
+/Users/chazhenricks/workspace/csharp/orientation/exercises/nickleback/bin/Debug/netcoreapp1.1/nickleback.dll
+/Users/chazhenricks/workspace/csharp/orientation/exercises/nickleback/bin/Debug/netcoreapp1.1/nickleback.pdb
+/Users/chazhenricks/workspace/csharp/orientation/exercises/nickleback/obj/Debug/netcoreapp1.1/nickleback.AssemblyInfo.cs
+/Users/chazhenricks/workspace/csharp/orientation/exercises/nickleback/obj/Debug/netcoreapp1.1/nickleback.dll
+/Users/chazhenricks/workspace/csharp/orientation/exercises/nickleback/obj/Debug/netcoreapp1.1/nickleback.pdb
